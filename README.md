@@ -20,7 +20,7 @@ Every hour, the city records how many cars pass on a certain stretch of road. We
 
 - Whether it’s a holiday
 
-<h2>📁 The Files You’ll See </h2>
+<h2>📁 The Files Utilized and Created </h2>
 
 - train_set_dirty.csv → The training data (includes traffic numbers we can learn from)
 
