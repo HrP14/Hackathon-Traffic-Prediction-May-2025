@@ -186,5 +186,5 @@ print("\n Submission file 'submission.csv' created.")
 """
 Predicts traffic volume for the test data.
 
-Prepares a submission file in the required format (Id, traffic_volume).
+Prepares a submission file in the required format (ID, traffic_volume).
 """
