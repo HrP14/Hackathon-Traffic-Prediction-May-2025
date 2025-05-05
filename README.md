@@ -88,8 +88,8 @@ We used two standard metrics:
 
 - Random Forest Model
 
-       RMSE is 1352.09
-       MAE is 1102.80
+       RMSE is 762.38	
+       MAE is 412.53
 
 <h2>✅ Improvement: </h2>
 
