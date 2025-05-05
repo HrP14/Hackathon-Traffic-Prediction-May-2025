@@ -93,4 +93,4 @@ We used two standard metrics:
 
 <h2>✅ Improvement: </h2>
 
-Random Forest did a much better job! It reduced the error by over 25%, showing that learning complex patterns in the data helps a lot.
+Huge improvement with Random Forest! We reduced error by over 58% in RMSE and almost 74% in MAE!
