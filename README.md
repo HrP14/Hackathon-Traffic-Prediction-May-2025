@@ -72,16 +72,17 @@ This is a much smarter model. Instead of one line, it builds lots of decision tr
 
 - Interactions between variables (e.g., rain + holiday might lower traffic more than either alone)
 
-📊 How We Measured Success
+<h2>📊 How We Measured Success</h2>
+
 We used two standard metrics:
 
-Metric	What It Means
-RMSE (Root Mean Squared Error)	Tells how far off our predictions are — big mistakes hurt more.
-MAE (Mean Absolute Error)	Average of how much we’re off by — easy to understand.
+- RMSE (Root Mean Squared Error) :	Tells how far off our predictions are — big mistakes hurt more.
+- MAE (Mean Absolute Error) :	Average of how much we’re off by — easy to understand.
 
-🏁 Results
-Model	RMSE	MAE
-Linear Regression	1823.55	1591.31
+<h2>🏁 Results</h2>
+	RMSE	MAE
+- Linear Regression	Model
+1823.55	1591.31
 Random Forest	1352.09	1102.80
 
 ✅ Improvement:
