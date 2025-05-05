@@ -1,4 +1,4 @@
-# Hackathon-Traffic-Prediction-May-2025
+# Hackathon May 2025 : Traffic Prediction 
 
 <h2>🚗 Predicting Traffic Volume Using Weather and Time Data</h2>
 
@@ -80,10 +80,17 @@ We used two standard metrics:
 - MAE (Mean Absolute Error) :	Average of how much we’re off by — easy to understand.
 
 <h2>🏁 Results</h2>
-	RMSE	MAE
-- Linear Regression	Model
-1823.55	1591.31
-Random Forest	1352.09	1102.80
 
-✅ Improvement:
+- Linear Regression Model
+  
+       RMSE is 1823.55	
+       MAE is 1591.31
+
+- Random Forest Model
+
+       RMSE is 1352.09
+       MAE is 1102.80
+
+<h2>✅ Improvement: </h2>
+
 Random Forest did a much better job! It reduced the error by over 25%, showing that learning complex patterns in the data helps a lot.
